@@ -35,6 +35,3 @@ This notebook builds a car price prediction model using various regression techn
 
 ---
 
-## 📊 Weights & Biases (W&B)
-
-*Paste your W&B project link or include a screenshot in the PDF*
